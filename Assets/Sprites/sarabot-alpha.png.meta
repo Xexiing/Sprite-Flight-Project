@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: c9b7c3b01183b164c9ea8d1f58097fca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3503957786028992175
+    second: sarabot-alpha_0
+  - first:
+      213: -6807145027512874097
+    second: sarabot-alpha_1
+  - first:
+      213: -8907942612681778382
+    second: sarabot-alpha_2
+  - first:
+      213: 2286144454515330396
+    second: sarabot-alpha_3
+  - first:
+      213: -4094794245099047379
+    second: sarabot-alpha_4
+  - first:
+      213: -4914938032014764450
+    second: sarabot-alpha_5
+  - first:
+      213: 5384588714042610389
+    second: sarabot-alpha_6
+  - first:
+      213: 5818962527734490360
+    second: sarabot-alpha_7
+  - first:
+      213: -5651439559966771917
+    second: sarabot-alpha_8
+  - first:
+      213: -2982273914443029794
+    second: sarabot-alpha_9
+  - first:
+      213: 1133897253887498448
+    second: sarabot-alpha_10
+  - first:
+      213: -131069865091892228
+    second: sarabot-alpha_11
+  - first:
+      213: 4073897312082956004
+    second: sarabot-alpha_12
+  - first:
+      213: 6083302652714043264
+    second: sarabot-alpha_13
+  - first:
+      213: -138428423009420265
+    second: sarabot-alpha_14
+  - first:
+      213: -1978532552542832419
+    second: sarabot-alpha_15
+  - first:
+      213: -2165835690336778703
+    second: sarabot-alpha_16
+  - first:
+      213: 7032596394633274986
+    second: sarabot-alpha_17
+  - first:
+      213: -8005764870810135818
+    second: sarabot-alpha_18
+  - first:
+      213: 2955756430508728200
+    second: sarabot-alpha_19
+  - first:
+      213: 2148169438999955718
+    second: sarabot-alpha_20
+  - first:
+      213: -7577413069910931440
+    second: sarabot-alpha_21
+  - first:
+      213: 7045801460884489308
+    second: sarabot-alpha_22
+  - first:
+      213: 4541523427995471342
+    second: sarabot-alpha_23
+  - first:
+      213: 7481952062812512489
+    second: sarabot-alpha_24
+  - first:
+      213: -6334608560261547732
+    second: sarabot-alpha_25
+  - first:
+      213: -301956902775257443
+    second: sarabot-alpha_26
+  - first:
+      213: -5564744845239716100
+    second: sarabot-alpha_27
+  - first:
+      213: 66319396254100011
+    second: sarabot-alpha_28
+  - first:
+      213: -9077981612792175825
+    second: sarabot-alpha_29
+  - first:
+      213: 1502362123534100145
+    second: sarabot-alpha_30
+  - first:
+      213: -7295025152147648608
+    second: sarabot-alpha_31
+  - first:
+      213: -314564174544705382
+    second: sarabot-alpha_32
+  - first:
+      213: 3394040498413038502
+    second: sarabot-alpha_33
+  - first:
+      213: 2115877653890305758
+    second: sarabot-alpha_34
+  - first:
+      213: -5958510838195440770
+    second: sarabot-alpha_35
+  - first:
+      213: 7240215387324605760
+    second: sarabot-alpha_36
+  - first:
+      213: 2989582590527516781
+    second: sarabot-alpha_37
+  - first:
+      213: -9192077973742079593
+    second: sarabot-alpha_38
+  - first:
+      213: -8190899455924346194
+    second: sarabot-alpha_39
+  - first:
+      213: 2838616773086684548
+    second: sarabot-alpha_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sarabot-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 219
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e838aa0f80a030800000000000000
+      internalID: 3503957786028992175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 219
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b478cc9a92881a0800000000000000
+      internalID: -6807145027512874097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 219
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b998bd361a06480800000000000000
+      internalID: -8907942612681778382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 219
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d8d94d4440abf10800000000000000
+      internalID: 2286144454515330396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 219
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26be88445e5c27c0800000000000000
+      internalID: -4094794245099047379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 219
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56d3bc76e1aacbb0800000000000000
+      internalID: -4914938032014764450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 219
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2561a18e6e9ba40800000000000000
+      internalID: 5384588714042610389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 175
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f46ceab69b11c050800000000000000
+      internalID: 5818962527734490360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 175
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335379ea9ad0291b0800000000000000
+      internalID: -5651439559966771917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 175
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2a5b2fca5dc96d0800000000000000
+      internalID: -2982273914443029794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 131
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d851c57b896cbf00800000000000000
+      internalID: 1133897253887498448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 175
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb7072f6a85e2ef0800000000000000
+      internalID: -131069865091892228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 175
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee8f1a5504698830800000000000000
+      internalID: 4073897312082956004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 175
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087463c288b3c6450800000000000000
+      internalID: 6083302652714043264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 131
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb4bb2514341ef0800000000000000
+      internalID: -138428423009420265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 131
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8332d4027da84e0800000000000000
+      internalID: -1978532552542832419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 131
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1360d9b2ae761f1e0800000000000000
+      internalID: -2165835690336778703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 131
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a662fce192dc89160800000000000000
+      internalID: 7032596394633274986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 131
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f29f00344fc5e090800000000000000
+      internalID: -8005764870810135818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 131
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f9c0330d4f40920800000000000000
+      internalID: 2955756430508728200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 87
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60941f829b4dfcd10800000000000000
+      internalID: 2148169438999955718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 87
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0188e83b5fe97d690800000000000000
+      internalID: -7577413069910931440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 87
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54c2f13917b7c160800000000000000
+      internalID: 7045801460884489308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 43
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc8c8ee7bb60f30800000000000000
+      internalID: 4541523427995471342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 87
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0e07292cb35d760800000000000000
+      internalID: 7481952062812512489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 87
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29367e9313f618a0800000000000000
+      internalID: -6334608560261547732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 87
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968a98fbcb3fcbf0800000000000000
+      internalID: -301956902775257443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 43
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6fcc9eb0e06c2b0800000000000000
+      internalID: -5564744845239716100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 43
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa177b32d9be000800000000000000
+      internalID: 66319396254100011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 43
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23aef302d7840280800000000000000
+      internalID: -9077981612792175825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 43
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66049346679d410800000000000000
+      internalID: 1502362123534100145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 43
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af03ba564dd2ca90800000000000000
+      internalID: -7295025152147648608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 43
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e235cc8172abf0800000000000000
+      internalID: -314564174544705382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abe235d9dd0a1f20800000000000000
+      internalID: 3394040498413038502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede815c048b1d5d10800000000000000
+      internalID: 2115877653890305758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73bb0356fd1f4da0800000000000000
+      internalID: -5958510838195440770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045ecc2d8896a7460800000000000000
+      internalID: 7240215387324605760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b51fc6812d7920800000000000000
+      internalID: 2989582590527516781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791396bd8cd2f6080800000000000000
+      internalID: -9192077973742079593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea260b29754145e80800000000000000
+      internalID: -8190899455924346194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sarabot-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4852c4d5aeac46720800000000000000
+      internalID: 2838616773086684548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sarabot-alpha_0: 3503957786028992175
+      sarabot-alpha_1: -6807145027512874097
+      sarabot-alpha_10: 1133897253887498448
+      sarabot-alpha_11: -131069865091892228
+      sarabot-alpha_12: 4073897312082956004
+      sarabot-alpha_13: 6083302652714043264
+      sarabot-alpha_14: -138428423009420265
+      sarabot-alpha_15: -1978532552542832419
+      sarabot-alpha_16: -2165835690336778703
+      sarabot-alpha_17: 7032596394633274986
+      sarabot-alpha_18: -8005764870810135818
+      sarabot-alpha_19: 2955756430508728200
+      sarabot-alpha_2: -8907942612681778382
+      sarabot-alpha_20: 2148169438999955718
+      sarabot-alpha_21: -7577413069910931440
+      sarabot-alpha_22: 7045801460884489308
+      sarabot-alpha_23: 4541523427995471342
+      sarabot-alpha_24: 7481952062812512489
+      sarabot-alpha_25: -6334608560261547732
+      sarabot-alpha_26: -301956902775257443
+      sarabot-alpha_27: -5564744845239716100
+      sarabot-alpha_28: 66319396254100011
+      sarabot-alpha_29: -9077981612792175825
+      sarabot-alpha_3: 2286144454515330396
+      sarabot-alpha_30: 1502362123534100145
+      sarabot-alpha_31: -7295025152147648608
+      sarabot-alpha_32: -314564174544705382
+      sarabot-alpha_33: 3394040498413038502
+      sarabot-alpha_34: 2115877653890305758
+      sarabot-alpha_35: -5958510838195440770
+      sarabot-alpha_36: 7240215387324605760
+      sarabot-alpha_37: 2989582590527516781
+      sarabot-alpha_38: -9192077973742079593
+      sarabot-alpha_39: -8190899455924346194
+      sarabot-alpha_4: -4094794245099047379
+      sarabot-alpha_40: 2838616773086684548
+      sarabot-alpha_5: -4914938032014764450
+      sarabot-alpha_6: 5384588714042610389
+      sarabot-alpha_7: 5818962527734490360
+      sarabot-alpha_8: -5651439559966771917
+      sarabot-alpha_9: -2982273914443029794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
